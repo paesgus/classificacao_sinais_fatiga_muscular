@@ -1,0 +1,24 @@
+# Ignorar videos
+/entrada/
+/saida/videos/
+# Ignorar as libs do ambiente virtual
+/venv/
+/.venv/
+/.vscode/
+/teste.ipynb
+# Ignore all PPgSI-Tese-GustavoPaes files except the .tex file
+PPgSI-Tese-GustavoPaes.*
+!PPgSI-Tese-GustavoPaes.pdf
+!PPgSI-Tese-GustavoPaes.tex
+fig_ficha_catalografica.pdf
+exemplo_pdf.pdf
+# Ignorar arquivos não usados
+99-split_treino_teste.ipynb
+99-lstm2.ipynb
+05-lstm_attempts.ipynb
+05-lstm_aug.ipynb
+realtime_*.csv
+# Ignore all artigo_gustavopaes files except the .tex file
+artigo_gustavopaes.*
+!artigo_gustavopaes.pdf
+!artigo_gustavopaes.tex
