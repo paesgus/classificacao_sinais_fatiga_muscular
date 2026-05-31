@@ -22,3 +22,7 @@ realtime_*.csv
 artigo_gustavopaes.*
 !artigo_gustavopaes.pdf
 !artigo_gustavopaes.tex
+
+template-sibgrapi-2026.*
+!artigo_gustavopaes.tex
+*lock.Apresentacao_Defesa.odp*

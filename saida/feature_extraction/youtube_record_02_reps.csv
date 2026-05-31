@@ -1,2 +1,0 @@
-rep_id,side,start_idx,peak_idx,end_idx,start_frame,peak_frame,end_frame,start_time,peak_time,end_time,rep_duration,rom_deg,elbow_start_deg,elbow_peak_deg,mean_vis_arm
-0,LEFT,89,153,201,89,153,201,2.966666666666667,5.1,6.7,3.7333333333333334,168.32114551752392,178.50918543625573,10.188039918731825,0.9979639920161538
