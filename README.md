@@ -111,4 +111,4 @@ Recomendação para experimentos reprodutíveis:
 
 ## Autor
 
-Projeto de pesquisa desenvolvido no contexto de tese (USP/PPgSI).
+Projeto de pesquisa desenvolvido no contexto de pesquisa (USP/PPgSI) por Gustavo Paes.
