@@ -1,5 +1,4 @@
 # Ignorar videos
-/entrada/
 /saida/videos/
 # Ignorar as libs do ambiente virtual
 /venv/
